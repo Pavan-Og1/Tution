@@ -56,7 +56,9 @@ Quality tution centre
     <p>Expert teaching • Friendly guidance • Strong basics</p>
   </div>  <div class="contact">
     <p>Contact us for admission details</p>
-    <button>Join Now</button>
+    <button onclick="window.location.href='tel:9876543210'">
+  Call Now
+</button>
   </div>
 </body>
 </html>
